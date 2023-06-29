@@ -1,0 +1,14 @@
+body {
+    font-family: "Verdana", sans-serif;
+    padding: 20px;
+    background-image: url("https://i.pinimg.com/originals/f5/05/da/f505da7499d8103459d905a2f33f418e.png");
+    background-repeat: no-repeat;
+    background-position: right 45px top 50px;
+}
+h1 {
+    padding-left: 20px;
+}
+.input {
+    display: block;
+    margin-bottom: 10px;
+}
